@@ -19,16 +19,23 @@ I'm a **Data Analyst** and **Data Science Enthusiast** who loves transforming ra
 ---
 
 ### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Pranay-Shete">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pranay-shete-0755b0224/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" />
-  </a>
 </p>
+<!--social media-->
+<div align="center">
+
+ <a href="https://github.com/Pranay-Shete" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
+ </a>
+  
+<a href="https://www.linkedin.com/in/pranay-shete-0755b0224" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
+  </a>
+
+</div>
+</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ---
 
