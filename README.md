@@ -24,13 +24,19 @@ I'm a **Data Analyst** and **Data Science Enthusiast** who loves transforming ra
 
 # 🚀 Languages and Tools:
 
-## Languages & Libraries:
+## Languages:
 
-[![Languages](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,sqlite)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
 
-## Data & Tools:
+> SQL is used via MySQL/PostgreSQL clients listed below.
 
-[![Tools](https://skillicons.dev/icons?i=github,anaconda,vscode,docker,flask,jupyter)](https://skillicons.dev)
+## Tools & Platforms:
+
+[![Tools](https://skillicons.dev/icons?i=jupyter,vscode,anaconda)](https://skillicons.dev)
+
+## Databases & Version Control:
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,github)](https://skillicons.dev)
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -46,3 +52,4 @@ I'm a **Data Analyst** and **Data Science Enthusiast** who loves transforming ra
 ## Made with ❤️ by Pranay Shete
 
 [![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://github.com/Pranay-Shete)
+
